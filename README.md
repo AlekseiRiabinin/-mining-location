@@ -13,3 +13,6 @@ Services for business [b2b] (outsourcing consulting audit), IT company, Startups
 - Numpy
 - Matplotlib
 - Seaborn
+
+## 4. Results
+With regard to objectives, the outcome of the machine learning model represents the revenue depending on the location of oil wells. The most profitable location is Region 2 whereas Region 1 and Region 3 are equal. The highest risk of failure has Region 3. As a consequence, there must be some trade-off between potential revenue and unpredictable circumstances for business.
